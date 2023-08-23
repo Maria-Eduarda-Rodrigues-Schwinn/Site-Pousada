@@ -1,0 +1,26 @@
+.bedroom {
+    border: none;
+
+    object-fit: cover;
+    width: 400px;
+}
+
+.section {
+    margin: 100px auto;
+}
+
+.section h3 {
+    margin: 40px 0;
+}
+
+.section ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    width: 900px;
+}
+
+.section ul li {
+    margin: 10px;
+}
